@@ -2,8 +2,7 @@
 
 
 <h2>Description</h2>
-The aim of this lab is to be able to access another users Outlook account through permissions control with the use of Microsoft 365 admin centre.
-
+The goal of this lab is to access another user's Outlook account by configuring permission settings through the Microsoft 365 Admin Center.
 
 <h2>Utilities Used</h2>
 
@@ -16,29 +15,27 @@ The aim of this lab is to be able to access another users Outlook account throug
 
 <h2>Program walk-through:</h2>
 
-First of in Outlooks account you can right click on inbox and click sharing permissions. 
+First, in the user's Outlook account, right-click on the Inbox and select 'Sharing Permissions'.
 
 <img src="https://i.imgur.com/RA2835o.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
-Here you can add who can have access to your mailbox and what actions they are able to do.
+From here, you can add users who will have access to your mailbox and define the specific actions they’re allowed to perform.
 
 <img src="https://i.imgur.com/KTH49aX.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
-In addition in Microsoft 365 admin centre you can give another user access and permissions over another persons mailbox by clicking on read and manage permissions. 
+Additionally, in the Microsoft 365 Admin Center, you can grant a user access and control over another person's mailbox by assigning 'Read and Manage' permissions.
 
 <img src="https://i.imgur.com/bSgpwdt.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
-Here you can add people who can control over another users mailbox.
+Here, you can add users who will have control over another person's mailbox.
 
 <img src="https://i.imgur.com/rg5VYE2.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
-In Outlook itself you can add a users mailbox to your Outlook so you can view their emails...
-
-You go to file, and click on account settings.
+In Outlook, you can add another user's mailbox to your account to view their emails. To do this, go to 'File' and select 'Account Settings'
 
 <img src="https://i.imgur.com/ZpGv2nt.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
-In data files click on settings and in the adanced section you can add an additional mailbox to your Outlook.
+Under 'Data Files', click on 'Settings', and in the 'Advanced' tab, you can add an additional mailbox to your Outlook account.
 
 <img src="https://i.imgur.com/2NCGlat.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
