@@ -32,6 +32,10 @@ Here you can add people who can control over another users mailbox.
 
 <img src="https://i.imgur.com/rg5VYE2.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
+In Outlook itself you can add a users mailbox to your Outlook so you can view their emails...
+
+You go to file, and click on account settings.
+
 <img src="https://i.imgur.com/ZpGv2nt.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/2NCGlat.png" style="width:80%;" alt="Disk Sanitization Steps"/>
