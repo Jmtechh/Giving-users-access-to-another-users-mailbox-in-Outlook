@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The goal of this lab is to access another user's Outlook account by configuring permission settings through the Microsoft 365 Admin Center.
+The aim of this lab is to access another user's Outlook account by configuring permission settings through the Microsoft 365 Admin Center.
 
 <h2>Utilities Used</h2>
 
