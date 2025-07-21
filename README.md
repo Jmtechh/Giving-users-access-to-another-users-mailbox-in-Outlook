@@ -38,5 +38,7 @@ You go to file, and click on account settings.
 
 <img src="https://i.imgur.com/ZpGv2nt.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
+In data files click on settings and in the adanced section you can add an additional mailbox to your Outlook.
+
 <img src="https://i.imgur.com/2NCGlat.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
