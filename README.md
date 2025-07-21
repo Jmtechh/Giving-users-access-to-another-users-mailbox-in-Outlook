@@ -1,4 +1,4 @@
-<h1>Giving permissions to an individuals mailbox in Outlook</h1>
+<h1>Giving users access to another users mailbox in Outlook</h1>
 
 
 <h2>Description</h2>
