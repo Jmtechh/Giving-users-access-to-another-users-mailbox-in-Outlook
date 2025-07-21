@@ -16,11 +16,19 @@ The aim of this lab is to be able to access another users Outlook account throug
 
 <h2>Program walk-through:</h2>
 
+First of in Outlooks account you can right click on inbox and click sharing permissions. 
+
 <img src="https://i.imgur.com/RA2835o.png" style="width:80%;" alt="Disk Sanitization Steps"/>
+
+Here you can add who can have access to your mailbox and what actions they are able to do.
 
 <img src="https://i.imgur.com/KTH49aX.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
+In addition in Microsoft 365 admin centre you can give another user access and permissions over another persons mailbox by clicking on read and manage permissions. 
+
 <img src="https://i.imgur.com/bSgpwdt.png" style="width:80%;" alt="Disk Sanitization Steps"/>
+
+Here you can add people who can control over another users mailbox.
 
 <img src="https://i.imgur.com/rg5VYE2.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
